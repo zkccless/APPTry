@@ -1,0 +1,3 @@
+[submodule "dependency/BaseTry"]
+	path = dependency/BaseTry
+	url = https://github.com/zkccless/BaseTry.git
